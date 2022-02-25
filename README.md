@@ -1,8 +1,8 @@
 # {Mercy Chemutai}
-#### {The application was an online application}, {2022}
-#### By **{ Mercy}**
+#### The application was an online and the support team did a fantastic work, 2022
+#### By ** Mercy**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The project is all about the programming school and its impact on the students.the great skills the acquire in such a short period of time.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -11,12 +11,14 @@
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+The inline styling of HTML, CSS do not work out if your stylesheet is not linked to the HTML document.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+My project is a consistancy of HTML, CSS and additional Bootsrap.Use of bootstrap has made styling easier hence it does not take a lot of time setting it up
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+Having any issue distrupting your code!
+Reach out now, here and ready to help.to contact me 
+tel no. 0768699568
 ### License
 *{MIT LICENCE}./LICENCE*
-Copyright (c) {2022} **{Project one}**
+Copyright (c) {2022} **https://github.com/korasin/My-portfolio.git**
   
