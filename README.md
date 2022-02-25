@@ -1,4 +1,4 @@
-# Mercy Chemutai
+# Mercy Chemutai portifolio
 #### The application was an online and the support team did a fantastic work, 2022
 #### By ** Mercy**
 ## Description
