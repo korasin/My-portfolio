@@ -1,6 +1,7 @@
 body{
     background-color: aquamarine;
     color: black;
+    /* background-image: https://unsplash.com/photos/nY14Fs8pxT8; */
 }
 img{
     float: right;
@@ -10,4 +11,7 @@ img{
 .projects{
     float: left;
     border: 44% solid aquamarine;
+}
+.container{
+    float: left;
 }
