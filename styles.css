@@ -2,3 +2,7 @@ body{
     background-color: aquamarine;
     color: black;
 }
+img{
+    float: right;
+    clear: left;
+}
