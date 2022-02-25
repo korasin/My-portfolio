@@ -9,7 +9,9 @@ The project is all about the programming school and its impact on the students.t
 * in a simple
 * easy-to-understand
 * format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+  first create a repository
+  clone the repository
+  run commandline arguments
 ## Known Bugs
 The inline styling of HTML, CSS do not work out if your stylesheet is not linked to the HTML document.
 ## Technologies Used
