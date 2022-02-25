@@ -5,4 +5,5 @@ body{
 img{
     float: right;
     clear: left;
+    border: 15vh solid aquamarine;
 }
