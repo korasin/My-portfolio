@@ -21,6 +21,6 @@ Having any issue distrupting your code!
 Reach out now, here and ready to help.to contact me 
 tel no. 0768699568
 ### License
-*{MIT LICENCE}./LICENCE*
+{MIT LICENSE}./LICENSE*
 Copyright (c) {2022} **https://github.com/korasin/My-portfolio.git**
   
