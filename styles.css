@@ -12,6 +12,7 @@ img{
     clear: left;
     margin: 20% left;
     width: 25%;
+    height: 8%;
 }
 .projects{
     float: right;
@@ -29,4 +30,9 @@ img{
 .card{
     background-color: aqua;
     padding: 15%;
+}
+.button{
+    color: white;
+    background-color: hotpink;
+    border: 2px solid hotpink;
 }
