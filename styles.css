@@ -11,11 +11,13 @@ img{
     float: right;
     clear: left;
     margin: 20% left;
+    width: 25%;
 }
 .projects{
     float: right;
     border: 44px;
     margin: 20px;
+    padding: 45px;
     
 }
 .great{
@@ -23,4 +25,8 @@ img{
 }
 #navbarSupportedContent{
     margin-right: 22%;
+}
+.card{
+    background-color: aqua;
+    padding: 15%;
 }
