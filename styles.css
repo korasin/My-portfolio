@@ -21,6 +21,11 @@ img{
     padding: 45px;
     
 }
+@media screen and (min-width: 200px) {
+    .card{
+        width: fit-content;
+    }
+}
 .great{
     color: cornflowerblue;
 }
