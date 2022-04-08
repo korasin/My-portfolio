@@ -21,7 +21,7 @@ img{
     padding: 45px;
     
 }
-@media screen and (min-width: 200px) {
+@media screen and (min-width: 500px) and (max-width: 7000px) {
     .card{
         width: fit-content;
     }
